@@ -31,7 +31,7 @@ Before running the tool, install the required dependencies:
 
 If you want to run the script in Jupyter Notebook without the Streamlit interface, use the following:
 
-from pdf_extractor import extract_tables_from_pdf
+from pdf_extractor import extract_tables_from_pdf ## pdf_extractor is file with the name: assignment_PEC_scoreme_21103106.
 
 pdf_path = "sample.pdf"  # Change this to your PDF file
 output_path = "output.xlsx"
