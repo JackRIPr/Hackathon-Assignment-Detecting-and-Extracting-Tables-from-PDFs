@@ -7,23 +7,23 @@ PDF Table Extractor is a Python-based tool that extracts tables from PDF files a
 
 🚀 Features
 
-Extracts tables from PDFs using pdfplumber and PyPDF2
+1. Extracts tables from PDFs using pdfplumber and PyPDF2
 
-Handles irregular tables using custom extraction techniques
+2. Handles irregular tables using custom extraction techniques
 
-Detects and corrects rotated pages before extraction
+3. Detects and corrects rotated pages before extraction
 
-Cleans and structures extracted tables
+4. Cleans and structures extracted tables
 
-Exports tables to Excel (.xlsx)
+5. Exports tables to Excel (.xlsx)
 
-Provides a Streamlit UI for easy interaction
+6. Provides a Streamlit UI for easy interaction
 
 🛠 Installation
 
 Before running the tool, install the required dependencies:
 
-pip install pdfplumber PyPDF2 pandas openpyxl streamlit base64
+---> pip install pdfplumber PyPDF2 pandas openpyxl streamlit base64
 
 💻 Usage
 
