@@ -65,6 +65,9 @@ Extract and download the tables in Excel format.
 
 🔥 Example Output
 
+![Screenshot 2025-03-17 164514](https://github.com/user-attachments/assets/3aae5edd-9554-4d1c-b175-e24ee6ac8f87)
+![Screenshot 2025-03-17 164542](https://github.com/user-attachments/assets/7a1df40a-ee7b-4981-8dd0-1f4f489105ca)
+
 After processing, extracted tables are saved as Excel files in the output/ folder, each sheet containing a table from the PDF.
 
 🤝 Contributing
