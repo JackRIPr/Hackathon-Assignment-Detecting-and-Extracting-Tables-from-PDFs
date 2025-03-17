@@ -70,7 +70,3 @@ After processing, extracted tables are saved as Excel files in the output/ folde
 🤝 Contributing
 
 Feel free to fork this repository and improve the extraction logic. Contributions are welcome!
-
-📜 License
-
-This project is licensed under the MIT License.
